@@ -1,5 +1,5 @@
 # ShamsWealth.github.io
-Happy valentine
+Happy Valentine
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -85,8 +85,10 @@ textarea{
 
 <div class="card" id="capture">
   <div class="photos">
-    <img src="your-photo.jpg">
-    <img src="her-photo.jpg">
+    ![image](https://github.com/user-attachments/assets/4208ece3-311a-45c2-9049-ee160084626d)
+
+    ![image](https://github.com/user-attachments/assets/4db5bc14-076c-4c20-8589-fecd22247250)
+
   </div>
 
   <h2>Chocolate 🍫</h2>
@@ -117,7 +119,7 @@ setInterval(()=>{
 },500);
 
 /* Typing animation */
-const text="Should I hold onto this lollipop 🍭 or Let go 😏 — Shams";
+const text="Should  I  hold  onto this  lollipop 🍭 or  Let  go 😏 — Shams";
 let i=0;
 setInterval(()=>{
   if(i<text.length){
@@ -156,5 +158,4 @@ document.body.addEventListener("click",()=>{
 
 </body>
 </html>
-your-photo.jpg
-her-photo.jpg
+Have a good day 🐇🍫
