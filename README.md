@@ -1,5 +1,5 @@
 # ShamsWealth.github.io
-<!DOCTYPE html>
+Happy valentine
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -47,9 +47,11 @@ body{
   object-fit:cover;
 }
 .typing{
-  min-height:50px;
+  min-height:70px;
   color:#555;
   margin-top:10px;
+  line-height:1.6;
+  white-space:pre-line;
 }
 .buttons{
   position:relative;
@@ -154,5 +156,5 @@ document.body.addEventListener("click",()=>{
 
 </body>
 </html>
-![image](https://github.com/user-attachments/assets/233d92fa-aedf-44ec-8450-673311a1627e)
-![image](https://github.com/user-attachments/assets/fefbe0cd-926e-4f1c-98ba-28b5d1e50ed7)
+your-photo.jpg
+her-photo.jpg
