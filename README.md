@@ -95,7 +95,7 @@ textarea{
     <button class="no" id="noBtn">Let go 😶</button>
   </div>
 
-  <textarea id="msg" placeholder="Drop your thoughts here 💭"></textarea>
+  <textarea id="msg" placeholder="Drop your message/question here 💭"></textarea>
   <div class="music">🎵 Tap anywhere to play music</div>
 </div>
 
@@ -115,7 +115,7 @@ setInterval(()=>{
 },500);
 
 /* Typing animation */
-const text="Should I hold onto this lollipop 🍭 or let go 😏 — Shams";
+const text="Should I hold onto this lollipop 🍭 or Let go 😏 — Shams";
 let i=0;
 setInterval(()=>{
   if(i<text.length){
@@ -154,3 +154,5 @@ document.body.addEventListener("click",()=>{
 
 </body>
 </html>
+![image](https://github.com/user-attachments/assets/233d92fa-aedf-44ec-8450-673311a1627e)
+![image](https://github.com/user-attachments/assets/fefbe0cd-926e-4f1c-98ba-28b5d1e50ed7)
